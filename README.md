@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Lamichhane</h1>
 
-- I like learning about new technologies and getting better at what I do. I'm good at building effective web applications using React, NestJs, Typescript, Node.js, Express, and MongoDB.
+- I like learning about new technologies and getting better at what I do. I'm good at building effective web applications using Angular, NestJs, Typescript, Node.js, Express, and MongoDB.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
@@ -50,4 +50,4 @@
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />
 </p>
-upda
+

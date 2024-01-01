@@ -46,7 +46,7 @@
 </a> 
 </p>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisirdhakal&show_icons=true&theme=dark&locale=en&layout=compact" alt="anishlc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishlc31&show_icons=true&theme=dark&locale=en&layout=compact" alt="anishlc" />
 </p>
 <!---
 <p align="left">
@@ -54,7 +54,7 @@
 </p>
 --->
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirdhakal&theme=dark&locale=en" alt="anishlc" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />
 </p>
 <!---
 <p alight="right">

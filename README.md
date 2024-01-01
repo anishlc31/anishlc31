@@ -48,7 +48,7 @@ I'm passionate about learning and implementing cutting-edge technologies to buil
     <img src="https://banner2.cleanpng.com/20180827/ice/kisspng-mysql-logo-join-brand-5b844952e3f111.3650166415353961789337.jpg" alt="mysql" width="40" height="40"/>
   </a> 
 
-<hr style="height:1px; margin:20px 0; border:none; color:#333; background-color:#333;">
+<hr style="height:0.5px; margin:20px 0; border:none; color:#333; background-color:#333;">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />

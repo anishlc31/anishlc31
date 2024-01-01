@@ -45,23 +45,9 @@
 <img src="https://banner2.cleanpng.com/20180827/ice/kisspng-mysql-logo-join-brand-5b844952e3f111.3650166415353961789337.jpg" alt="mysql" width="40" height="40"/>
 </a> 
 </p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishlc31&show_icons=true&theme=dark&locale=en&layout=compact" alt="anishlc" />
-</p>
-<!---
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisirdhakal&show_icons=true&theme=dark&locale=en" alt="sisirdhakal" />
-</p>
---->
+
+
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />
 </p>
-<!---
-<p alight="right">
-<img align="right" src="https://komarev.com/ghpvc/?username=sisirdhakal&style=plastic&color=blue" />
-</p>
---->
-<!---
-sisirdhakal/sisirdhakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+upda

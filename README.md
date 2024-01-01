@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Lamichhane</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />
-</p>
+
 
 ## 🚀 About Me
 I'm passionate about learning and implementing cutting-edge technologies to build effective web applications. My expertise lies in:
@@ -49,12 +47,8 @@ I'm passionate about learning and implementing cutting-edge technologies to buil
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://banner2.cleanpng.com/20180827/ice/kisspng-mysql-logo-join-brand-5b844952e3f111.3650166415353961789337.jpg" alt="mysql" width="40" height="40"/>
   </a> 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishlc31&theme=dark&locale=en" alt="anishlc" />
 </p>
